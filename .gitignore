@@ -73,3 +73,14 @@ Section7/Arrays/Debug/main.cpp.o.d
 Section7/.codelite/ctags
 Section7/tags
 Section7/Arrays/Arrays.mk
+Makefile
+tags
+Section7/Makefile
+
+Section7/Section7.workspace
+Section7/Vectors/Debug/.d
+Section7/Vectors/Debug/main.cpp.o
+Section7/Vectors/Debug/main.cpp.o.d
+Section7/Vectors/Debug/Vectors.exe
+Section7/Vectors/Vectors.mk
+Section7/Vectors/Vectors.txt

@@ -84,3 +84,10 @@ Section7/Vectors/Debug/main.cpp.o.d
 Section7/Vectors/Debug/Vectors.exe
 Section7/Vectors/Vectors.mk
 Section7/Vectors/Vectors.txt
+Section7/Section7Challenge/Section7Challenge.mk
+Section7/Section7Challenge/Section7Challenge.txt
+Section7/Section7Challenge/Debug/.d
+Section7/Section7Challenge/Debug/main.cpp.o
+Section7/Section7Challenge/Debug/main.cpp.o.d
+Section7/Section7Challenge/Debug/Section7Challenge.exe
+Section7/Makefile
